@@ -5046,7 +5046,7 @@
 
     function sc(a) {
         a = a.ga;
-        return R('<div id="drawer">Drawer</div><div id="codelab-title"><div id="codelab-nav-buttons"><img id="arrow-back" src="http://bixos.saselusp.com.br/images/favicon.png"><a href="#" id="menu"><i class="material-icons">menu</i></a></div><div class="codelab-time-container"></div><devsite-user></devsite-user></div><div id="main"><div id="steps"></div><div id="controls"><div id="fabs"><a href="#" id="previous-step" title="Previous step">Anterior</a><div class="spacer"></div><a href="#" id="next-step" title="Next step">Próximo</a></div></div></div>')
+        return R('<div id="drawer">Drawer</div><div id="codelab-title"><div id="codelab-nav-buttons"><img id="arrow-back" src="img/favicon.png"><a href="#" id="menu"><i class="material-icons">menu</i></a></div><div class="codelab-time-container"></div><devsite-user></devsite-user></div><div id="main"><div id="steps"></div><div id="controls"><div id="fabs"><a href="#" id="previous-step" title="Previous step">Anterior</a><div class="spacer"></div><a href="#" id="next-step" title="Next step">Próximo</a></div></div></div>')
     }
 
     function tc(a) {
